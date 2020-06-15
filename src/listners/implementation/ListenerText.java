@@ -154,7 +154,7 @@ public class ListenerText implements src.listners.Listeners, src.listners.Contro
                 break;
                 default:
                     break;
-                   
+
                    // throw new IllegalStateException("Unexpected value: " + operands.get(i));
             }
         }
